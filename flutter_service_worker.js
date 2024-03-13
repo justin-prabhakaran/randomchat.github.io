@@ -35,7 +35,7 @@ const RESOURCES = {"icons/apple-icon-60x60.png": "1004965870ad2f2bc6e9a3b1df5c36
 "icons/android-icon-36x36.png": "2712a9319d026302ebc020765739757f",
 "icons/favicon.ico": "e9ab67ce7c966ec1d83e9c7bbc0868df",
 "version.json": "e87894b6aed197c497258d67a587a3f4",
-"main.dart.js": "7f9f7a8cc76ac93c2945c8afdb453067",
+"main.dart.js": "006ccd10f74f033426ed67bf27ae4484",
 "canvaskit/canvaskit.js": "c86fbd9e7b17accae76e5ad116583dc4",
 "canvaskit/canvaskit.js.symbols": "38cba9233b92472a36ff011dc21c2c9f",
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
@@ -61,8 +61,8 @@ const RESOURCES = {"icons/apple-icon-60x60.png": "1004965870ad2f2bc6e9a3b1df5c36
 "manifest.json": "17b67000fcae977122e87b06191b1eca",
 "flutter.js": "c71a09214cb6f5f8996a531350400a9a",
 "favicon.ico": "e9ab67ce7c966ec1d83e9c7bbc0868df",
-"index.html": "2456bf38910721b92d99eca33851b029",
-"/": "2456bf38910721b92d99eca33851b029"};
+"index.html": "d8da08819f203b210b51e9aa0fa19949",
+"/": "d8da08819f203b210b51e9aa0fa19949"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
